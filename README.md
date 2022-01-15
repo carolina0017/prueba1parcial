@@ -1,6 +1,13 @@
 # prueba1parcial
 - Datos personales  
-- 
+- Caroline Michelle Ortiz 
 - Características del computador
+- Sistema operativo de 64 bits, procesador x64
+- 12,0 GB (9,95 GB utilizable)
+- AMD Ryzen 3 3250U with Radeon Graphics            2.60 GHz
+- Caro desktop soul29 NL
 - Programas utilizados
+- git hub, git bash, jupyterlab, nano
 - Explicación de la data utilizada
+- Se ha utilizado como principal el git bash para ejecutar los comandos y nano para escribir y ver los scripts realizados,
+- mientras que jupiter ha sido utilizado para resolver las preguntas que incluian python y editar y subir las imagenes 
